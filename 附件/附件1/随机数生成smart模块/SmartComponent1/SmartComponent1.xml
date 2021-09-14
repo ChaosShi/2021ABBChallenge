@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<lc:LibraryCompiler xmlns:lc="urn:abb-robotics-robotstudio-librarycompiler"
+										xmlns="urn:abb-robotics-robotstudio-graphiccomponent"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="urn:abb-robotics-robotstudio-librarycompiler file:///C:\Program%20Files%20(x86)\ABB\SDK\RobotStudio%202020%20SDK\LibraryCompilerSchema.xsd
+                                        urn:abb-robotics-robotstudio-graphiccomponent file:///C:\Program%20Files%20(x86)\ABB\SDK\RobotStudio%202020%20SDK\GraphicComponentSchema.xsd">
+	<lc:Library fileName="SmartComponent1.rslib">
+		<lc:DocumentProperties>
+			<lc:Author>luhon</lc:Author>
+			<lc:Image source="SmartComponent1.png"/>
+		</lc:DocumentProperties>
+		<SmartComponent name="SmartComponent1" icon="SmartComponent1.png"
+										codeBehind="SmartComponent1.CodeBehind,SmartComponent1.dll"
+										canBeSimulated="false">
+			<Properties>
+				<DynamicProperty name="Random_Tetris_X" valueType="System.Double" value="0"/>
+				<DynamicProperty name="Random_Tetris_Y" valueType="System.Double" value="0"/>
+				<DynamicProperty name="Random_Tetris_Rz" valueType="System.Double" value="0"/>
+				<DynamicProperty name="Random_TetrisID" valueType="System.Double" value="1"/>
+			</Properties>
+			<Bindings>
+			</Bindings>
+			<Signals>
+				<!--开始执行任务的数字量输入信号-->
+				<IOSignal name="Execute" signalType="DigitalInput" autoReset="true"/>
+				<!-- 任务完成后的数字量输出信号 -->
+				<IOSignal name="Executed" signalType="DigitalOutput" autoReset="true"/>
+				<IOSignal name="Executed_Tetris_1" signalType="DigitalOutput" autoReset="true"/>
+				<IOSignal name="Executed_Tetris_2" signalType="DigitalOutput" autoReset="true"/>
+				<IOSignal name="Executed_Tetris_3" signalType="DigitalOutput" autoReset="true"/>
+				<IOSignal name="Executed_Tetris_4" signalType="DigitalOutput" autoReset="true"/>
+				<IOSignal name="Executed_Tetris_5" signalType="DigitalOutput" autoReset="true"/>
+				<IOSignal name="Executed_Tetris_6" signalType="DigitalOutput" autoReset="true"/>
+				<IOSignal name="Executed_Tetris_7" signalType="DigitalOutput" autoReset="true"/>
+			</Signals>
+			<GraphicComponents>
+			</GraphicComponents>
+			<Assets>
+				<Asset source="SmartComponent1.dll"/>
+			</Assets>
+		</SmartComponent>
+	</lc:Library>
+</lc:LibraryCompiler>

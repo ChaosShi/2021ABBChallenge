@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LibraryResource xmlns="urn:abb-robotics-robotstudio-libraryresource"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="urn:abb-robotics-robotstudio-libraryresource file:///C:\Program%20Files%20(x86)\ABB\SDK\RobotStudio%202020%20SDK\LibraryResourceSchema.xsd">
+	<SmartComponent name="SmartComponent1" description="Sample Component Description">
+		<DynamicProperty name="Random_Tetris_X" description="Random X of Block in world coordinate system"/>
+		<DynamicProperty name="Random_Tetris_Y" description="Random Y of Block in world coordinate system"/>
+		<DynamicProperty name="Random_Tetris_Rz" description="Random Rz of Block in world coordinate system"/>
+		<DynamicProperty name="Random_TetrisID" description="Random Block Type"/>
+		<IOSignal name="Execute" description="Execute"/>
+		<IOSignal name="Executed_Tetris_1" description="Executed_Tetris_1"/>
+		<IOSignal name="Executed_Tetris_2" description="Executed_Tetris_2"/>
+		<IOSignal name="Executed_Tetris_3" description="Executed_Tetris_3"/>
+		<IOSignal name="Executed_Tetris_4" description="Executed_Tetris_4"/>
+		<IOSignal name="Executed_Tetris_5" description="Executed_Tetris_5"/>
+		<IOSignal name="Executed_Tetris_6" description="Executed_Tetris_6"/>
+		<IOSignal name="Executed_Tetris_7" description="Executed_Tetris_7"/>
+		<IOSignal name="Executed" description="Executed"/>
+	</SmartComponent>
+</LibraryResource>
