@@ -1,0 +1,6 @@
+C:\Users\CNHASHI3\Desktop\TetrisAI\TetrisAI\TetrisAI\bin\Debug\TetrisAI.dll
+C:\Users\CNHASHI3\Desktop\TetrisAI\TetrisAI\TetrisAI\bin\Debug\TetrisAI.pdb
+C:\Users\CNHASHI3\Desktop\TetrisAI\TetrisAI\TetrisAI\obj\Debug\TetrisAI.csproj.AssemblyReference.cache
+C:\Users\CNHASHI3\Desktop\TetrisAI\TetrisAI\TetrisAI\obj\Debug\TetrisAI.csproj.CoreCompileInputs.cache
+C:\Users\CNHASHI3\Desktop\TetrisAI\TetrisAI\TetrisAI\obj\Debug\TetrisAI.dll
+C:\Users\CNHASHI3\Desktop\TetrisAI\TetrisAI\TetrisAI\obj\Debug\TetrisAI.pdb

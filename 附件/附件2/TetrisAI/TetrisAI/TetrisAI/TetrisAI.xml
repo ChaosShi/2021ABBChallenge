@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<lc:LibraryCompiler xmlns:lc="urn:abb-robotics-robotstudio-librarycompiler"
+										xmlns="urn:abb-robotics-robotstudio-graphiccomponent"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="urn:abb-robotics-robotstudio-librarycompiler file:///C:\Program%20Files%20(x86)\ABB\SDK\RobotStudio%202020%20SDK\LibraryCompilerSchema.xsd
+                                        urn:abb-robotics-robotstudio-graphiccomponent file:///C:\Program%20Files%20(x86)\ABB\SDK\RobotStudio%202020%20SDK\GraphicComponentSchema.xsd">
+	<lc:Library fileName="TetrisAI.rslib">
+		<lc:DocumentProperties>
+			<lc:Author>CNHASHI3</lc:Author>
+			<lc:Image source="TetrisAI.png"/>
+		</lc:DocumentProperties>
+		<SmartComponent name="TetrisAI" icon="TetrisAI.png"
+										codeBehind="TetrisAI.CodeBehind,TetrisAI.dll"
+										canBeSimulated="false">
+			<Properties>
+				<DynamicProperty name="Random_TetrisID" valueType="System.Double" value="0"/>
+				<DynamicProperty name="Tetris_AI_x" valueType="System.Double" value="0"/>
+				<DynamicProperty name="Tetris_AI_y" valueType="System.Double" value="0"/>
+				<DynamicProperty name="Tetris_AI_Rz_Times" valueType="System.Double" value="0"/>
+				<DynamicProperty name="GameOver" valueType="System.Double" value="0"/>
+			</Properties>
+			<Bindings>
+			</Bindings>
+			<Signals>
+				<!--开始新局-->
+				<IOSignal name="NewGame" signalType="DigitalInput" autoReset="false"/>
+				<!--选择AI-->
+				<IOSignal name="AI_PD_Fill_In" signalType="DigitalInput" autoReset="false"/>
+				<IOSignal name="AI_PD_No_Fill_In" signalType="DigitalInput" autoReset="false"/>
+				<!--开始新方块-->
+				<IOSignal name="NewBrick" signalType="DigitalInput" autoReset="false"/>
+				<!-- 任务完成后的数字量输出信号 -->
+				<IOSignal name="Executed" signalType="DigitalOutput" autoReset="true"/>
+			</Signals>
+			<GraphicComponents>
+			</GraphicComponents>
+			<Assets>
+				<Asset source="TetrisAI.dll"/>
+			</Assets>
+		</SmartComponent>
+	</lc:Library>
+</lc:LibraryCompiler>
