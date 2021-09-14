@@ -1,0 +1,54 @@
+C:\Users\luhon\Desktop\test\SmartComponent1\bin\Debug\SmartComponent1.dll
+C:\Users\luhon\Desktop\test\SmartComponent1\bin\Debug\SmartComponent1.pdb
+C:\Users\luhon\Desktop\test\SmartComponent1\obj\Debug\SmartComponent1.csprojAssemblyReference.cache
+C:\Users\luhon\Desktop\test\SmartComponent1\obj\Debug\SmartComponent1.csproj.CoreCompileInputs.cache
+C:\Users\luhon\Desktop\test\SmartComponent1\obj\Debug\SmartComponent1.dll
+C:\Users\luhon\Desktop\test\SmartComponent1\obj\Debug\SmartComponent1.pdb
+C:\Users\luhon\Desktop\20210408随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.dll
+C:\Users\luhon\Desktop\20210408随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.pdb
+C:\Users\luhon\Desktop\20210408随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csprojAssemblyReference.cache
+C:\Users\luhon\Desktop\20210408随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csproj.CoreCompileInputs.cache
+C:\Users\luhon\Desktop\20210408随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.dll
+C:\Users\luhon\Desktop\20210408随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.pdb
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210408随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.dll
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210408随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.pdb
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210408随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csprojAssemblyReference.cache
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210408随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csproj.CoreCompileInputs.cache
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210408随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.dll
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210408随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.pdb
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210419随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.dll
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210419随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.pdb
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210419随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csprojAssemblyReference.cache
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210419随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csproj.CoreCompileInputs.cache
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210419随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.dll
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210419随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.pdb
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\ABB竞赛成果，施浩然，刘佳莉，江新阳\20210419随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.dll
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\ABB竞赛成果，施浩然，刘佳莉，江新阳\20210419随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.pdb
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\ABB竞赛成果，施浩然，刘佳莉，江新阳\20210419随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csprojAssemblyReference.cache
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\ABB竞赛成果，施浩然，刘佳莉，江新阳\20210419随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csproj.CoreCompileInputs.cache
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\ABB竞赛成果，施浩然，刘佳莉，江新阳\20210419随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.dll
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\ABB竞赛成果，施浩然，刘佳莉，江新阳\20210419随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.pdb
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210428随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.dll
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210428随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.pdb
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210428随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csprojAssemblyReference.cache
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210428随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csproj.CoreCompileInputs.cache
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210428随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.dll
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210428随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.pdb
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210603随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.dll
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210603随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.pdb
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210603随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csprojAssemblyReference.cache
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210603随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csproj.CoreCompileInputs.cache
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210603随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.dll
+D:\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\学习测试过程\20210603随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.pdb
+D:\坚果云同步文件夹\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\ABB竞赛成果，施浩然，刘佳莉，江新阳\2021年ABB挑战赛提交文档（施浩然，刘佳莉，江新阳，ver20210804）\附件\附件1\随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csproj.AssemblyReference.cache
+D:\坚果云同步文件夹\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\ABB竞赛成果，施浩然，刘佳莉，江新阳\2021年ABB挑战赛提交文档（施浩然，刘佳莉，江新阳，ver20210804）\附件\附件1\随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csproj.CoreCompileInputs.cache
+D:\坚果云同步文件夹\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\ABB竞赛成果，施浩然，刘佳莉，江新阳\2021年ABB挑战赛提交文档（施浩然，刘佳莉，江新阳，ver20210804）\附件\附件1\随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.dll
+D:\坚果云同步文件夹\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\ABB竞赛成果，施浩然，刘佳莉，江新阳\2021年ABB挑战赛提交文档（施浩然，刘佳莉，江新阳，ver20210804）\附件\附件1\随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.pdb
+D:\坚果云同步文件夹\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\ABB竞赛成果，施浩然，刘佳莉，江新阳\2021年ABB挑战赛提交文档（施浩然，刘佳莉，江新阳，ver20210804）\附件\附件1\随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.dll
+D:\坚果云同步文件夹\我的坚果云\ABB RobotStudio®俄罗斯方块玩家挑战\ABB竞赛成果，施浩然，刘佳莉，江新阳\2021年ABB挑战赛提交文档（施浩然，刘佳莉，江新阳，ver20210804）\附件\附件1\随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.pdb
+C:\Users\luhon\Desktop\2021年ABB挑战赛提交文档（施浩然，刘佳莉，江新阳，ver20210807）\附件\附件1\随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.dll
+C:\Users\luhon\Desktop\2021年ABB挑战赛提交文档（施浩然，刘佳莉，江新阳，ver20210807）\附件\附件1\随机数生成smart模块\SmartComponent1\bin\Debug\SmartComponent1.pdb
+C:\Users\luhon\Desktop\2021年ABB挑战赛提交文档（施浩然，刘佳莉，江新阳，ver20210807）\附件\附件1\随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csproj.AssemblyReference.cache
+C:\Users\luhon\Desktop\2021年ABB挑战赛提交文档（施浩然，刘佳莉，江新阳，ver20210807）\附件\附件1\随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.csproj.CoreCompileInputs.cache
+C:\Users\luhon\Desktop\2021年ABB挑战赛提交文档（施浩然，刘佳莉，江新阳，ver20210807）\附件\附件1\随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.dll
+C:\Users\luhon\Desktop\2021年ABB挑战赛提交文档（施浩然，刘佳莉，江新阳，ver20210807）\附件\附件1\随机数生成smart模块\SmartComponent1\obj\Debug\SmartComponent1.pdb
